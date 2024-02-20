@@ -1,8 +1,8 @@
 ![Banner linkedin](https://github.com/Malalo87/Malalo87/assets/157773257/e551f37b-a53b-48b4-8d4b-22793ded0334)
 
+
  
- 
-<h1 align="center">Hi 👋, I'm Paola Malagon</h1>
+<h1 align="center">Hi 👋, I'm Paola Malagon</h1>   ![d0cfcedfb6db756d1e97b3bcfd2482e841f81368_hq](https://github.com/Malalo87/Malalo87/assets/157773257/d0852186-2a4e-474f-8b79-7137709315f7)
 <h3 align="center">A passionate data analyst and frontend developer from Colombia</h3>
 
 - 🔭 I’m currently working on [https://ibagirlsdev.com/](https://ibagirlsdev.com/)
