@@ -1,7 +1,7 @@
 ![Banner linkedin](https://github.com/Malalo87/Malalo87/assets/157773257/e551f37b-a53b-48b4-8d4b-22793ded0334)
 
  
- - 👋 Hi, I’m @Malalo87
+ 
 <h1 align="center">Hi 👋, I'm Paola Malagon</h1>
 <h3 align="center">A passionate data analyst and frontend developer from Colombia</h3>
 
